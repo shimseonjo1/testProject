@@ -1,2 +1,3 @@
 user1이 git 작업중입니다.
 user1이 git 수정중입니다.......
+user2가 git 수정중입니다.
